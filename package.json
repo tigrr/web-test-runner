@@ -11,8 +11,12 @@
 	"license": "ISC",
 	"devDependencies": {
 		"@esm-bundle/chai": "^4.3.4-fix.0",
+		"@lit-labs/testing": "^0.2.1",
 		"@open-wc/testing": "^3.1.7",
 		"@web/test-runner": "^0.15.0",
 		"sinon": "^15.0.1"
+	},
+	"dependencies": {
+		"lit": "^2.7.6"
 	}
 }
